@@ -1,0 +1,13 @@
+C:\Users\Арсений\Desktop\datkagridik\datkagridik\bin\Debug\datkagridik.exe.config
+C:\Users\Арсений\Desktop\datkagridik\datkagridik\bin\Debug\datkagridik.exe
+C:\Users\Арсений\Desktop\datkagridik\datkagridik\bin\Debug\datkagridik.pdb
+C:\Users\Арсений\Desktop\datkagridik\datkagridik\obj\Debug\datkagridik.csproj.AssemblyReference.cache
+C:\Users\Арсений\Desktop\datkagridik\datkagridik\obj\Debug\datkagridik.Form1.resources
+C:\Users\Арсений\Desktop\datkagridik\datkagridik\obj\Debug\datkagridik.Properties.Resources.resources
+C:\Users\Арсений\Desktop\datkagridik\datkagridik\obj\Debug\datkagridik.csproj.GenerateResource.cache
+C:\Users\Арсений\Desktop\datkagridik\datkagridik\obj\Debug\datkagridik.csproj.CoreCompileInputs.cache
+C:\Users\Арсений\Desktop\datkagridik\datkagridik\obj\Debug\datkagridik.exe
+C:\Users\Арсений\Desktop\datkagridik\datkagridik\obj\Debug\datkagridik.pdb
+C:\Users\Арсений\Desktop\datkagridik\datkagridik\obj\Debug\datkagridik.add.resources
+C:\Users\Арсений\Desktop\datkagridik\datkagridik\obj\Debug\datkagridik.touristsearch.resources
+C:\Users\Арсений\Desktop\datkagridik\datkagridik\obj\Debug\datkagridik.pohodi.resources
